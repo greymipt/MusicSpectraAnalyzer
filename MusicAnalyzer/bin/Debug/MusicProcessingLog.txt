@@ -1,0 +1,165 @@
+D:\Sergey\MUSIC\ALTERNATIVE\30 Seconds To Mars\Other\Acoustic Versions Of '30 Seconds To Mars' Songs\30 Seconds To Mars - From Yesterday (Acoustic).mp3
+Got a frame at sample rate 24000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\05 - Мой рок-н-ролл.mp3
+Got a frame at sample rate 22050, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\ДЕЦЛ-Вечеринка У ДеЦла.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\Joan Osborne - One Of Us.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\05 - Мой рок-н-ролл.mp3
+Got a frame at sample rate 22050, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\ДЕЦЛ-Вечеринка У ДеЦла.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\Joan Osborne - One Of Us.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\05 - Мой рок-н-ролл.mp3
+Got a frame at sample rate 22050, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\ДЕЦЛ-Вечеринка У ДеЦла.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\Joan Osborne - One Of Us.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\05 - Мой рок-н-ролл.mp3
+Got a frame at sample rate 22050, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\ДЕЦЛ-Вечеринка У ДеЦла.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\Joan Osborne - One Of Us.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\05 - Мой рок-н-ролл.mp3
+Got a frame at sample rate 22050, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\ДЕЦЛ-Вечеринка У ДеЦла.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\Joan Osborne - One Of Us.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\05 - Мой рок-н-ролл.mp3
+Got a frame at sample rate 22050, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\ДЕЦЛ-Вечеринка У ДеЦла.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\Joan Osborne - One Of Us.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\05 - Мой рок-н-ролл.mp3
+Got a frame at sample rate 22050, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\ДЕЦЛ-Вечеринка У ДеЦла.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\Joan Osborne - One Of Us.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\05 - Мой рок-н-ролл.mp3
+Got a frame at sample rate 22050, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\ДЕЦЛ-Вечеринка У ДеЦла.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\Sergey\MUSIC\COMPILATIONS\Favorite\Joan Osborne - One Of Us.mp3
+Got a frame at sample rate 48000, in an MP3 with sample rate 44100. Mp3FileReader does not support sample rate changes.
+D:\test\The Offspring - 11 - Da Hui.mp3
+Операция является недопустимой из-за текущего состояния объекта.
+D:\test\The Offspring - 11 - Da Hui.mp3
+Операция является недопустимой из-за текущего состояния объекта.
+D:\test\The Offspring - 11 - Da Hui.mp3
+Операция является недопустимой из-за текущего состояния объекта.
+D:\test\The Offspring - 11 - Da Hui.mp3
+Results of FFT is NaN
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\01 - Опа.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\09 - Суровый Рэп.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\05 - Четверо Парней.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\13 - Зло.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\02 - Серенада.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\10 - Паша - Face Control (Remix) (Дискотека Авария vs. DJ Smash).mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\06 - Страдания (Дискотека Авария и Олег Меньшиков).mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\14 - Небо (Дискотека Авария и Моральный Кодекс).mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\11 - Дискотека Авария.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\03 - Малинки (Дискотека Авария и Жанна Фриске).mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\15 - Суровый Рэп (Не Для Слабаков Lukich Mix).mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\07 - Если Хочешь Остаться.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\12 - Мани.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\04 - Песенка Разбойников.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\08 - Ат Аффтара.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\16 - Банда (Club Mix).mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\17 - Если Хочешь Остаться (Караоке).mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\01 - Опа.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\02 - Серенада.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\03 - Малинки (Дискотека Авария и Жанна Фриске).mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\04 - Песенка Разбойников.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\05 - Четверо Парней.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\06 - Страдания (Дискотека Авария и Олег Меньшиков).mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\07 - Если Хочешь Остаться.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\Sergey\MUSIC\RUSSIAN\Дискотека Авария\[2006] Четверо Парней\08 - Ат Аффтара.mp3
+Название кодировки "windows - 1251" не поддерживается.
+Имя параметра: name
+D:\temp\[2006] Четверо Парней\01 - Опа.mp3
+Название кодировки "win1251" не поддерживается.
+Имя параметра: name
+D:\temp\[2006] Четверо Парней\09 - Суровый Рэп.mp3
+Название кодировки "win1251" не поддерживается.
+Имя параметра: name
+D:\temp\[2006] Четверо Парней\05 - Четверо Парней.mp3
+Название кодировки "win1251" не поддерживается.
+Имя параметра: name
+D:\temp\[2006] Четверо Парней\13 - Зло.mp3
+Название кодировки "win1251" не поддерживается.
+Имя параметра: name
+D:\temp\[2006] Четверо Парней\02 - Серенада.mp3
+Название кодировки "win1251" не поддерживается.
+Имя параметра: name
+D:\temp\[2006] Четверо Парней\06 - Страдания (Дискотека Авария и Олег Меньшиков).mp3
+Название кодировки "win1251" не поддерживается.
+Имя параметра: name
+D:\temp\[2006] Четверо Парней\10 - Паша - Face Control (Remix) (Дискотека Авария vs. DJ Smash).mp3
+Название кодировки "win1251" не поддерживается.
+Имя параметра: name
+D:\temp\[2006] Четверо Парней\14 - Небо (Дискотека Авария и Моральный Кодекс).mp3
+Название кодировки "win1251" не поддерживается.
+Имя параметра: name
+Операция была отменена.
+Операция была отменена.
+D:\Sergey\MUSIC\ALTERNATIVE\All Star United\[2007] Love And Radiation\03 - Before You Break My Heart.mp3
+NoDriver calling acmFormatSuggest
+D:\temp\[2006] Четверо Парней\09 - Суровый Рэп.mp3
+NoDriver calling acmFormatSuggest
+D:\temp\[2006] Четверо Парней\09 - Суровый Рэп.mp3
+NoDriver calling acmFormatSuggest
